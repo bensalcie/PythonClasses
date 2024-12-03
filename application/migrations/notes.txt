@@ -1,0 +1,16 @@
+COMMON COMMANDS
+
+
+(.venv) ➜  PythonClasses django-admin startproject "project" .
+(.venv) ➜  PythonClasses python manage.py startapp "application"
+(.venv) ➜  PythonClasses python manage.py runserver
+
+
+
+(.venv) ➜  PythonClasses python manage.py makemigrations
+(.venv) ➜  PythonClasses python manage.py migrate
+
+(.venv) ➜  PythonClasses pip install pillow --> Image Library
+
+Next visit == 13/11/2024
+
